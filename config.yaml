@@ -1,0 +1,12 @@
+Job1:
+    directory: '/full/path/to/dir1'
+    mtime: -1
+    repeat: 10
+    type: 'f'
+    dry_run: True
+
+Job2:
+    directory: '/full/path/to/dir2'
+    repeat: 10
+    type: 'd'
+    mtime: -1

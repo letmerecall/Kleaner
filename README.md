@@ -1,5 +1,5 @@
 # KLeaner
-Keep you system tidy.
+Keep you system tidy. Scheldule automatic cleaning jobs for you linux files and folder.
 
 ```
 ,--. ,--.,--.
